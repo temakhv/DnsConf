@@ -1,7 +1,7 @@
 # Preferred GeoHideDNS endpoint verified from the client network.
 193.233.112.67 gemini.google.com
 193.233.112.67 claude.ai
-193.233.112.67 assets-proxy.anthropic.com
+193.233.112.88 assets-proxy.anthropic.com
 37.221.93.128 canva.com
 37.221.93.128 static.canva.com
 193.233.112.67 s-cdn.anthropic.com
